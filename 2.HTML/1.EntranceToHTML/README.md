@@ -4,7 +4,7 @@ This is my first study for HTML from kodluyoruz.org Front-end Web Development Pa
 
 I used basic HTML.
 
-You can acces patika [by clicking here](https://www.patika.dev/tr)
+You can acces to patika [by clicking here](https://www.patika.dev/tr)
 
 Thanks for your time.
 
