@@ -1,6 +1,6 @@
 # About
 Hey,
-This is my first study for HTML from kodluyoruz.org Front-end Web Development Path for Beginner.
+This is my first study for HTML from kodluyoruz.org Front-end Web Development Path for Beginners.
 
 I used basic HTML.
 
